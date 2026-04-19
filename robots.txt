@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://80ezstudio.github.io/lunyra/sitemap.xml
+Sitemap: https://80ezstudio.github.io/Lunyra/sitemap.xml

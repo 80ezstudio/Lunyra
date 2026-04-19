@@ -10,7 +10,7 @@ window.LUNYRA_CONFIG = {
 
   // ── DOMAIN ────────────────────────────────────────
   // ASSUMPTION: Replace with real domain once chosen.
-  DOMAIN: 'https://80ezstudio.github.io/lunyra',
+  DOMAIN: 'https://80ezstudio.github.io/Lunyra',
 
   // ── PLAY STORE ────────────────────────────────────
   // ASSUMPTION: Replace with actual Play Store URL once listing is live.
@@ -22,7 +22,7 @@ window.LUNYRA_CONFIG = {
 
   // ── SOCIAL IMAGE ──────────────────────────────────
   // ASSUMPTION: Create and upload og-image.png (1200×630px) before deploying.
-  OG_IMAGE: 'https://80ezstudio.github.io/lunyra/assets/og-image.png',
+  OG_IMAGE: 'https://80ezstudio.github.io/Lunyra/assets/og-image.png',
 
   // ── FAVICON ───────────────────────────────────────
   // ASSUMPTION: Create and upload favicon.png (512×512px, transparent) before deploying.
