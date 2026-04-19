@@ -14,7 +14,7 @@ window.LUNYRA_CONFIG = {
 
   // ── PLAY STORE ────────────────────────────────────
   // ASSUMPTION: Replace with actual Play Store URL once listing is live.
-  PLAY_URL: 'https://play.google.com/store/apps/details?id=com.lunyra.app',
+  PLAY_URL: 'https://play.google.com/store/apps/details?id=com.eightyezstudio.lunyra',
 
   // ── CONTACT ───────────────────────────────────────
   // ASSUMPTION: Replace with real contact email.
@@ -30,7 +30,7 @@ window.LUNYRA_CONFIG = {
 
   // ── APP PACKAGE ───────────────────────────────────
   // ASSUMPTION: Verify this matches the actual Play Store listing package name.
-  PACKAGE_ID: 'com.lunyra.app',
+  PACKAGE_ID: 'com.eightyezstudio.lunyra',
 
   // ── RATING (leave empty until real Play Store data exists) ──
   // ASSUMPTION: Do not display star ratings until verified from Play Console.
