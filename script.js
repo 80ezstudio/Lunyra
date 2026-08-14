@@ -99,6 +99,20 @@ document.querySelectorAll('.benefit-card, .feature-row, .trust-item').forEach(el
   fadeObserver.observe(el);
 });
 
+/* Show the final-day launch offer only while the Play sale is active. */
+(function initLaunchSale() {
+  var saleEnds = Date.parse('2026-08-15T00:00:00+01:00');
+  if (Date.now() >= saleEnds) return;
+
+  var saleBanner = document.getElementById('launch-sale');
+  var heroPrice = document.getElementById('hero-price');
+  var ctaPrice = document.getElementById('cta-price');
+
+  if (saleBanner) saleBanner.hidden = false;
+  if (heroPrice) heroPrice.textContent = 'Free today';
+  if (ctaPrice) ctaPrice.textContent = 'Free today on Google Play. No subscription, adverts or account.';
+})();
+
 
 /* ─── RATING BADGE — unhide once real Play Store data is verified ── */
 /* ASSUMPTION: PLAY_RATING in CONFIG.js must be verified real data before enabling.
