@@ -11,7 +11,7 @@ Your quiet space. Not another subscription. Lunyra combines 18 offline soundscap
 - Flexible session timer and background audio
 - Works offline after installation, with no adverts, subscriptions or accounts
 - One upfront purchase, with no in-app purchases
-- £0.99 in the UK, verified in Google Play Console on 30 September 2026; Google Play shows your current local price and compatibility before purchase
+- Regular UK price: £0.99. Google Play's 50% percentage sale is scheduled for 1–7 October 2026 in 174 markets, with the UK price rounded to £0.50. The normal price returns automatically. Google Play shows the current local price and compatibility before purchase.
 
 ## Lunyra Journal
 
