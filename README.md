@@ -1,20 +1,23 @@
-# Lunyra — Sleep Sounds, Meditation & Focus for Android
+# Lunyra — Offline Sleep Sounds for Android
 
-Lunyra is a private, offline-friendly Android app for sleep, focus, meditation and quiet moments. It combines 18 calming soundscapes with five living visual atmospheres and a slow breathing visual.
+Your quiet space. Not another subscription. Lunyra combines 18 offline soundscapes with five living visual atmospheres, a timer and a gentle visual breathing guide.
 
-[Explore Lunyra](https://80ezstudio.github.io/Lunyra/) · [Get Lunyra on Google Play](https://play.google.com/store/apps/details?id=com.eightyezstudio.lunyra&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic%26utm_campaign%3Daugust_growth)
+[Explore Lunyra](https://80ezstudio.github.io/Lunyra/?utm_source=github&utm_medium=organic_web&utm_campaign=quiet_space_2026_09&utm_content=readme) · [Get Lunyra on Google Play](https://play.google.com/store/apps/details?id=com.eightyezstudio.lunyra&utm_source=github&utm_medium=organic_web&utm_campaign=quiet_space_2026_09&utm_content=readme&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic_web%26utm_campaign%3Dquiet_space_2026_09%26utm_content%3Dreadme)
 
 ## Why Lunyra
 
 - 18 level-balanced soundscapes, including nature, ambient music, piano, cello, handpan, steel drum and panpipes
 - Five animated atmospheres: three cosmic skies, a moonlit forest and a flowing river
 - Flexible session timer and background audio
-- Works offline, with no adverts, subscriptions, accounts or personal-data collection
-- Built for Android 16
+- Works offline after installation, with no adverts, subscriptions or accounts
+- One upfront purchase, with no in-app purchases
+- £0.99 in the UK, verified in Google Play Console on 30 September 2026; Google Play shows your current local price and compatibility before purchase
 
 ## Lunyra Journal
 
 The [Lunyra Journal](https://80ezstudio.github.io/Lunyra/blog/) contains practical guides for winding down, focusing and building a calmer evening routine.
+
+Start with [a quiet space without Wi-Fi](https://80ezstudio.github.io/Lunyra/blog/offline-sleep-sounds-android.html): a practical checklist for offline and screen-off listening.
 
 ## About this repository
 
